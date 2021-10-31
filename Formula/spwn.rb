@@ -8,4 +8,5 @@ class Spwn < Formula
   def install
     bin.install "spwn"
   end
+
 end
