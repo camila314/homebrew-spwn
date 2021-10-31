@@ -1,4 +1,4 @@
-class SPWN < Formula
+class Spwn < Formula
   desc "Programming language that compiles into Geometry Dash triggers"
   homepage "https://github.com/Spu7Nix/SPWN-language"
   url "https://github.com/Spu7Nix/SPWN-language/releases/download/v0.7-beta/spwn-0.7-x86_64-mac.tar.gz"
